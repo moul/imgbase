@@ -1,5 +1,7 @@
 #IMGBASE
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/imgbase.svg)](https://www.guardrails.io)
+
 In your terminal
 
     npm install -g imgbase
